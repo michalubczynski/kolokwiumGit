@@ -6,3 +6,4 @@ Zmiana1 na galezi naprawaBledu
 =======
 Zmiana2 na galezi prostaWersja
 >>>>>>> prostaWersja
+zmiana na main
