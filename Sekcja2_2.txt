@@ -1,6 +1,8 @@
 Zmiana1
 Zmiana1 na galezi prostaWersja
+<<<<<<< HEAD
 Zmiana2 na galezi prostaWersja
 Zmiana1 na galezi naprawaBledu
-zmiana2
-zmiana3
+=======
+Zmiana2 na galezi prostaWersja
+>>>>>>> prostaWersja
