@@ -1,3 +1,11 @@
 Zmiana1
+<<<<<<< HEAD
 Zmiana
 Zmiana na main
+=======
+Zmiana na sklonowanym
+Zmiana na galezi master
+zmiana na głownym
+zmiana kolejna
+zmiana kolejna
+>>>>>>> 2715d1cdfe9c2d3cbd009eb00f252c95fc53afb3
